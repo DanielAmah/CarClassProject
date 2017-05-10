@@ -1,0 +1,27 @@
+{
+  "name": "carclassproject",
+  "version": "1.0.0",
+  "description": "Car Class Project",
+  "main": "index.js",
+  "scripts": {
+   "test": "jasmine" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAmah/CarClassProject.git"
+  },
+  "keywords": [
+    "Car",
+    "Class",
+    "Project"
+  ],
+  "author": "Daniel Amah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielAmah/CarClassProject/issues"
+  },
+  "homepage": "https://github.com/DanielAmah/CarClassProject#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
