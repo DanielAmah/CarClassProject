@@ -2,9 +2,9 @@
 	
 	'use  strict'
 
-	const chai = require('jasmine');
+	const chai = require('jasmine'); // require jasmine
 	
-	const Car = require('../app/library.js')
+	const Car = require('../app/library.js') // require my app file (library.js)
 	
 
 describe("Car Class: Create a car, make it drive", function() {
